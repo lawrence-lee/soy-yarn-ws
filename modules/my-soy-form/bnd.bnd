@@ -1,0 +1,7 @@
+Bundle-Name: my-soy-form
+Bundle-SymbolicName: my.soy.form
+Bundle-Version: 1.0.0
+Provide-Capability:\
+	soy;\
+		type:String="LiferayFormField"
+Web-ContextPath: /dynamic-data-my-soy-form-form-field
